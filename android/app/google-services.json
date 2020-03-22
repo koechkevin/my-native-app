@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192732536832",
+    "firebase_url": "https://my-resume-92231.firebaseio.com",
+    "project_id": "my-resume-92231",
+    "storage_bucket": "my-resume-92231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192732536832:android:6c30af74ea04a9e661b8e5",
+        "android_client_info": {
+          "package_name": "com.mynativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192732536832-shlqv2384s9na31c1du2nbkgu1edtlhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIlesUcNQwuWkLaBaA00LHyYRU9my6zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192732536832-shlqv2384s9na31c1du2nbkgu1edtlhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
