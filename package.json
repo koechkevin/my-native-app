@@ -22,7 +22,7 @@
     "@react-navigation/stack": "^5.2.1",
     "@types/react-native-material-menu": "^1.0.0",
     "@types/react-native-push-notification": "^3.0.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "base-64": "^0.1.0",
     "css-select": "^2.1.0",
     "css-tree": "^1.0.0-alpha.39",
