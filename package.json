@@ -29,7 +29,7 @@
     "dotenv": "^8.2.0",
     "firebase": "^7.11.0",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-animated-loader": "^0.0.8",
